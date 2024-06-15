@@ -1,2 +1,2 @@
 # Courier--MERN
-Courier wed using MERN
+Courier web using MERN
